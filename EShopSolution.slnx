@@ -2,5 +2,7 @@
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
   </Folder>
+  <Project Path="EShopSolution.Application/EShopSolution.Application.csproj" Id="c7b43816-0870-4d77-9f46-e9a96ec1d602" />
+  <Project Path="EShopSolution.Data/EShopSolution.Data.csproj" Id="ea223bb0-35dc-498e-9698-ae400b0d6bba" />
   <Project Path="EShopSolution.WebApp/EShopSolution.WebApp.csproj" />
 </Solution>
